@@ -1,4 +1,4 @@
-# storytellingcubesstudio</br>
+# StoryTelling Cubes Studio</br>
 StoryTelling Cubes Studio 0.17 for dices creation</br>
 </br>
 Create dices for StoryTelling Cubes Android game.</br>
