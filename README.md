@@ -4,7 +4,7 @@ StoryTelling Cubes Studio 0.17 for dices creation
 Create dices for StoryTelling Cubes Android game.
 This program is free to use.
 
-Create dices in few steps:
+Create dices in few steps:</br>
 1. Install program
 2. Run program
 3. Select number of dices from 3 to 9
